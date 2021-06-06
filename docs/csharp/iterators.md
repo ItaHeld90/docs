@@ -12,7 +12,7 @@ Almost every program you write will have some need to iterate
 over a collection. You'll write code that examines every item in
 a collection.
 
-You'll also create iterator methods which are methods that produces an
+You'll also create iterator methods which are methods that produce an
 iterator (which is an object that traverses a container, particularly lists) for the elements of that class. These can be used for:
 
 + Performing an action on each item in a collection.
@@ -22,7 +22,7 @@ iterator (which is an object that traverses a container, particularly lists) for
 methods.
 
 The C# language provides
-features for both these scenarios. This article provides an overview
+features for all these scenarios. This article provides an overview
 of those features.
 
 This tutorial has multiple steps. After each step, you can run the application and see the progress. You can also [view or download the completed sample](https://github.com/dotnet/samples/blob/main/csharp/iterators) for this topic. For download instructions, see [Samples and Tutorials](../samples-and-tutorials/index.md#view-and-download-samples).
